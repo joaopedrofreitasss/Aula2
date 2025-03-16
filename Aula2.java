@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class Aula2 {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);  
+        Scanner scanner = new Scanner(System.in);  //bem vindo
         int opcao;
 
         do {
-            System.out.println("\nBem-vindo à loja de plantas da Dona Gabrielinha");
+            System.out.println("\nbem vindo à loja de plantas da Dona Gabrielinha");
             System.out.println("[1] - Calcular Preço Total");
             System.out.println("[2] - Calcular Troco");
             System.out.println("[3] - Sair");
